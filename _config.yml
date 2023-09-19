@@ -4,12 +4,12 @@ plugins:
 
 remote_theme: vszhub/not-pure-poole
 title: Fabio's Github Page
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+description: M1 Data Science student based in France
 url: https://vszhub.github.io
-avatar: /avatar.jpeg
+avatar: /Fabiocv.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg2.jpeg
 
 # Gems
 plugins:
@@ -33,14 +33,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: Elon
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Fabio
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com
+    - https://github.com/FabioGadegbeku
 google_site_verification: xxxxx
 lang: en
 
@@ -58,6 +58,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Fabio
+  url: https://github.com/FabioGadegbeku
+  email: fabio.gadegbeku.etu@univ-lille.fr
