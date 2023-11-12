@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Business card released :)
+title: "Business card released"
 author: Fabio
 tags:
 date: 2023-09-19 13:56 +0800
