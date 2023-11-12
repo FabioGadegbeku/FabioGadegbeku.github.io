@@ -1,9 +1,9 @@
 - title: Email
   url: mailto:fabio.gadegbeku.etu@univ-lille.fr
   icon: fas fa-envelope
-- title: Twitter
-  url: https://twitter.com
-  icon: fab fa-twitter
+- title: LinkedIn
+  url: https://www.linkedin.com/in/fabio-gadegbeku-38a949219/
+  icon: fab fa-linkedin-in
 - title: GitHub
   url: https://github.com/FabioGadegbeku
   icon: fab fa-github
