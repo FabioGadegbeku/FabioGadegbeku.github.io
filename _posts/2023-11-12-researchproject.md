@@ -6,7 +6,7 @@ tags:
 date: 2023-11-12 13:56 +0800
 last_modified_at: 10-04-2024
 ---
-Master 1 research project about implementing a new constraint score. This score is crafted upon the foundation of similarity matrices constructed within a lower-dimensional subspace, offering the unique capability to evaluate the relevance of all features simultaneously. You can find the full report here :[Constraint Scores](https://jmp.sh/s/2toaZNCVRbycgtyos5Nf) (Or click on the title for more details)
+Master 1 research project about implementing a new constraint score. This score is crafted upon the foundation of similarity matrices constructed within a lower-dimensional subspace, offering the unique capability to evaluate the relevance of all features simultaneously. Click on the title for more details !
 {: .message }
 
 # Similarity-Based-CS
@@ -39,4 +39,5 @@ This project addresses the curse of dimensionality in feature selection methods,
 
 If there's any problem or questions don't hesitate to contact me !
 
+You can find the full report here : [Constraint Scores](https://jmp.sh/s/2toaZNCVRbycgtyos5Nf)
 Link to the projects github : [Similarity-Based-CS](https://github.com/FabioGadegbeku/Similarity-Based-CS).

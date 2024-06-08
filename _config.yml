@@ -3,8 +3,8 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: vszhub/not-pure-poole
-title: Fabio's Github Page
-description: M1 Data Science student based in France
+title: Fabio Gadegbeku
+description: M2 Data Science student based in France
 url: https://FabioGadegbeku.github.io
 avatar: /Fabiocv.jpg
 paginate: 5
