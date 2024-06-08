@@ -6,7 +6,7 @@ tags:
 date: 2023-11-12 13:56 +0800
 last_modified_at:
 ---
-Master 1 research project about implementing a new constraint score. This score is crafted upon the foundation of similarity matrices constructed within a lower-dimensional subspace, offering the unique capability to evaluate the relevance of all features simultaneously.
+Master 1 research project about implementing a new constraint score. This score is crafted upon the foundation of similarity matrices constructed within a lower-dimensional subspace, offering the unique capability to evaluate the relevance of all features simultaneously. You can find the full report here :[Constraint Scores](https://jmp.sh/s/2toaZNCVRbycgtyos5Nf) (Or click on the title for more details)
 {: .message }
 
 # Similarity-Based-CS
@@ -25,5 +25,18 @@ This project addresses the curse of dimensionality in feature selection methods,
 - High-Dimensional Original Feature Space: Discusses the issues associated with working in high-dimensional spaces and its impact on similarity computation.
 
 - New Constraint Score: Introduces the primary focus of the project, which is the development of a novel constraint score that operates on feature subsets in a lower-dimensional subspace.
+
+
+## How To Use :
+
+- Information and descriptions of the state of the art constraint scores and our new similarity based constraint score can be found in the report pdf.
+
+- To use the implementations of these scores clone the repository and the scores can be found in the c_scores.py file inside the sim_based_cs folder.
+
+- In c_scores.py you'll also find functions for preprocessing your data, plotting results, and computing the rank matrix.
+
+- In the notebook you can find the results obtained by my implementations.
+
+If there's any problem or questions don't hesitate to contact me !
 
 Link to the projects github : [Similarity-Based-CS](https://github.com/FabioGadegbeku/Similarity-Based-CS).
