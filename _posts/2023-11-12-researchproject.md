@@ -1,5 +1,5 @@
-
-- layout: post
+---
+layout: post
 title: Similarity Based Constraint Score for Feature Selection
 author: Fabio
 tags:
