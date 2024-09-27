@@ -4,7 +4,7 @@ title: Yeatinator - Generate Lyrics in the Style of Your Favorite Artists
 author: Fabio
 tags:
 date: 2024-08-07 13:56 +0800
-last_modified_at: 2024-27-09
+last_modified_at: 2024-09-27 13:56 +0800
 ---
 # Yeatinator: A Comparative Analysis of LSTM and GPT-2 for Rap Lyric Generation
 
