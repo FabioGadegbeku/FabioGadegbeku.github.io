@@ -39,5 +39,5 @@ This project addresses the curse of dimensionality in feature selection methods,
 
 If there's any problem or questions don't hesitate to contact me !
 
-You can find the full report here : [Constraint Scores](https://jmp.sh/s/2toaZNCVRbycgtyos5Nf)
+You can find the full report here : [Constraint Scores](/assets/report.pdf).
 Link to the projects github : [Similarity-Based-CS](https://github.com/FabioGadegbeku/Similarity-Based-CS).
