@@ -4,12 +4,13 @@ plugins:
 
 remote_theme: vszhub/not-pure-poole
 title: Fabio Gadegbeku
-description: M2 Data Science student based in France
+description: description: M2 Data Science student based in France
 url: https://FabioGadegbeku.github.io
 avatar: /Fabiocv.jpg
 paginate: 5
 permalink: pretty
 cover_image: /bg2.jpg
+
 
 # Gems
 plugins:
