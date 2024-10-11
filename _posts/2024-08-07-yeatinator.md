@@ -9,7 +9,7 @@ last_modified_at: 2024-09-27 13:56 +0800
 # Yeatinator: A Comparative Analysis of LSTM and GPT-2 for Rap Lyric Generation
 
 ![image](/yeat.jpg)
-The **Yeatinator** project explores the effectiveness of different NLP architectures—specifically an LSTM-based model and a fine-tuned GPT-2 model—in generating lyrics inspired by the rapper *Yeat*. This project highlights the creative potential of AI for text generation tasks and provides insights into the differences between older, more traditional sequence models (LSTM) and cutting-edge transformer models like GPT-2. Also try to see the difficulties encountered when training a model from scratch.
+The **Yeatinator** project explores the effectiveness of different NLP architectures—specifically an LSTM-based model and a fine-tuned GPT-2 model—in generating lyrics inspired by the rapper *Yeat*. This project highlights the creative potential of AI for text generation tasks and provides insights into the differences between older, more traditional sequence models (LSTM) and newer transformer models like GPT-2.
 
 ## Project Overview
 
@@ -44,9 +44,9 @@ The LSTM was trained using:
 
 ### GPT-2 Model
 
-A pre-trained GPT-2 model was fine-tuned on the *Yeat* lyrics corpus, making use of transfer learning to adapt the general language capabilities of GPT-2 to the specific task of rap lyric generation. Only the last few transformer layers were updated during training to prevent overfitting to the relatively small dataset.
+A pre-trained GPT-2 model was fine-tuned on the *Yeat* lyrics corpus, making use of transfer learning to adapt the general language capabilities of GPT-2 to the specific task of rap lyric generation.
 
-- **Base Model**: GPT-2 (small version, 117M parameters)
+- **Base Model**: GPT-2
 - **Training Epochs**: 5 epochs
 - **Training Time**: ~1 hour on a GPU
 
@@ -95,4 +95,4 @@ I'm fuckin' my money down ",
 
 ## Conclusion
 
-The results of the **Yeatinator** project demonstrated that while both LSTM and GPT-2 models can generate lyrics, **GPT-2 significantly outperformed the LSTM** in terms of creativity, coherence, and maintaining the stylistic characteristics of *Yeat*'s lyrics. This reinforces the idea that modern transformer-based models like GPT-2 are better suited for text generation tasks, particularly in creative domains such as music lyrics.
+The results of the **Yeatinator** project demonstrated that while both LSTM and GPT-2 models can generate lyrics, **GPT-2 significantly outperformed the LSTM** in terms of grammar and maintaining *Yeat*'s style.  We can clairly see the difficulties in training models for text generation from scratch and the benefits of leveraging pre-trained models for specific tasks.
