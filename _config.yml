@@ -171,13 +171,13 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: False
+    output: tru
     permalink: /:collection/:path/
   Projects:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: False
+    output: true
     permalink: /:collection/:path/
 
 
@@ -213,7 +213,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: Projects
     values:
       layout: single
       author_profile: true
